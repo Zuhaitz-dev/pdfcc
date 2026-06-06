@@ -1,0 +1,11 @@
+# Node.js local dependency trees (Users will recreate this via 'npm install')
+node_modules/
+package-lock.json
+
+# Block any accidental copy drafts or temporary files
+*.html
+*.log
+
+# System Environment Clutter
+.DS_Store
+Thumbs.db
